@@ -19,7 +19,7 @@ Alter: 26
 Nationalität: Deutsch
 Lieblingsessen: Reis
 
-Ahmed       
+Ahmed
 Name: Ahmed
 Alter: 39
 Nationalität: Deutsch/Libyer
